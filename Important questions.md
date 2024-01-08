@@ -2,7 +2,7 @@
 
 To go live on Rebit 2.x specs, entities need to follow these steps:
 
-1. **Implement the specs:** Implement the specifications as outlined on [api.rebit.org.in](dummy_link_1).
+1. **Implement the specs:** Implement the specifications as outlined on [api.rebit.org.in](api.rebit.org.in).
    
 2. **Test the GET API in the CR:** Test the implementation of the GET API in the CR according to the new format. Refer to the following entities in the CR to understand the new format - AA00023400.
 
