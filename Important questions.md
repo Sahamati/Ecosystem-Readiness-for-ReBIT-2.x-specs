@@ -26,6 +26,8 @@ OR
 
 1. **Use CR Onboarding API:** Alternatively, entities can use the CR Onboarding API to update their entity as per the agreed-upon format for the base URL.
 
+[Instructions to use the CR API](api.rebit.org.in).
+
 ## What is the deadline for the implementation of ReBit 2.x specs?
 
 [Insert information about the deadline here.]
