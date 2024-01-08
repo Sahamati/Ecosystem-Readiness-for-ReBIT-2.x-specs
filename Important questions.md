@@ -8,7 +8,7 @@ To go live on Rebit 2.x specs, entities need to follow these steps:
 
 3. **Test in the UAT environment:** Test the implementation in the UAT environment. To find AAs that are live in UAT on ReBiT 2.x, refer to [this link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Readiness_of_AAs.md).
 
-4. **Get certified:** Get the FIP/FIU certified. Check the status of certifiers' readiness at [this link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Status_of_Certifiers.md).
+4. **Get certified:** Get the FIP/FIU implementation certified. Check the status of certifiers' readiness at [this link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Status_of_Certifiers.md).
 
 ## Do entities need to create a new entry in the CR for their version implementation of ReBit 2.x specs?
 
