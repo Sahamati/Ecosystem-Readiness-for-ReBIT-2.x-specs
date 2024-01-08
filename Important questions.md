@@ -6,7 +6,7 @@ To go live on Rebit 2.x specs, entities need to follow these steps:
    
 2. **Test the GET API in the CR:** Test the implementation of the GET API in the CR according to the new format. Refer to the following entities in the CR to understand the new format - AA00023400.
 
-3. **Test in the UAT environment:** Test the implementation in the UAT environment. To find AAs that are live, refer to [this link](dummy_link_2).
+3. **Test in the UAT environment:** Test the implementation in the UAT environment. To find AAs that are live, refer to [this link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Readiness_of_AAs.md).
 
 4. **Get certified:** Get the entity certified. Check the status of certifiers' readiness at [this link](dummy_link_3).
 
