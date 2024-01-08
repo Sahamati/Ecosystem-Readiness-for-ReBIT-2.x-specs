@@ -1,11 +1,33 @@
-| Question                                                       | Answer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What are the major changes that an entity has to make in order to go live on Rebit 2.x specs | "1. Implement the specs as stated on [api.rebit.org.in](dummy_link_1)  
-   2. Test the implementation of the GET API in the CR as per the new format. You can refer to the following entities in the CR to understand the new format- AA00023400.  
-   3. Test the implementation in the UAT environment, for finding AAs that are live, refer to [this link](dummy_link_2).  
-   4. Get the entity certified. To know the status of readiness of certifiers, please refer to [this link](dummy_link_3)." |
-| Do entities need to create a new entry in the CR for their version implementation of ReBit 2.x specs | "No, Entities do need to create a new entry in the CR to declare their readiness for ReBit 2.x specs. CR can host the endpoint of ReBit 2.0 specs by updating the base URL in the following format `v1:<url for v1>, v2:<url for v2>`"                                                                                                                                      |
-| How do entities declare their readiness for ReBit 2.x specs    | "Entities need to send an updated JSON as per the prescribed format for the base URL and send the request to [services@sahamati.org.in](mailto:services@sahamati.org.in)  
-Entities can also use the CR Onboarding API to update their entity as per the agreed-upon format for the base URL."                                                                                                                                                                                                                                                |
-| What is the deadline for the implementation of ReBit 2.x specs |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| How long do entities need to host both ReBit 1.2 versions and 2.x versions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+## What are the major changes that an entity has to make to go live on Rebit 2.x specs?
+
+To go live on Rebit 2.x specs, entities need to follow these steps:
+
+1. **Implement the specs:** Implement the specifications as outlined on [api.rebit.org.in](dummy_link_1).
+   
+2. **Test the GET API in the CR:** Test the implementation of the GET API in the CR according to the new format. Refer to the following entities in the CR to understand the new format - AA00023400.
+
+3. **Test in the UAT environment:** Test the implementation in the UAT environment. To find AAs that are live, refer to [this link](dummy_link_2).
+
+4. **Get certified:** Get the entity certified. Check the status of certifiers' readiness at [this link](dummy_link_3).
+
+## Do entities need to create a new entry in the CR for their version implementation of ReBit 2.x specs?
+
+No, entities do not need to create a new entry in the CR to declare their readiness for ReBit 2.x specs. The CR can host the endpoint of ReBit 2.0 specs by updating the base URL in the following format: `v1:<url for v1>, v2:<url for v2>`.
+
+## How do entities declare their readiness for ReBit 2.x specs?
+
+Entities can declare their readiness for ReBit 2.x specs by following these steps:
+
+1. **Send updated JSON:** Send an updated JSON as per the prescribed format for the base URL.
+
+2. **Submit the request:** Send the request to [services@sahamati.org.in](mailto:services@sahamati.org.in).
+
+3. **Use CR Onboarding API:** Alternatively, entities can use the CR Onboarding API to update their entity as per the agreed-upon format for the base URL.
+
+## What is the deadline for the implementation of ReBit 2.x specs?
+
+[Insert information about the deadline here.]
+
+## How long do entities need to host both ReBit 1.2 versions and 2.x versions?
+
+[Insert information about hosting both versions here.]
