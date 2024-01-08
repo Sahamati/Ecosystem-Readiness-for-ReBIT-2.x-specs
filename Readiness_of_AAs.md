@@ -2,10 +2,10 @@
 |------------------|-----------|------------------|
 | Finvu AA         | Yes       | Feb End         |
 | NADL AA          | Yes        | Jan End          |
-| Tally AA         | No        | Jan End          |
-| Onemoney AA      | No        | Jan End          |
-| Phonepe AA       | No        | Jan End          |
-| Saafe AA         | No        | Jan End          |
+| Tally AA         |         | Jan End          |
+| Onemoney AA      |         | Jan End          |
+| Phonepe AA       |         | Jan End          |
+| Saafe AA         |         | Jan End          |
 | CAMS AA          |           |                  |
 | Agya AA (Setu)   |           |                  |
 | Anumati AA       |           |                  |
