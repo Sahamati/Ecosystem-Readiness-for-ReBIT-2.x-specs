@@ -18,11 +18,12 @@ No, entities do not need to create a new entry in the CR to declare their readin
 
 Entities can declare their readiness for ReBit 2.x specs by following these steps:
 
-1. **Send updated JSON:** Send an updated JSON as per the prescribed format for the base URL.
+1. **Create the updated JSON:** Send an updated JSON as per the prescribed format for the base URL.
 
-2. **Submit the request:** Send the request to [services@sahamati.org.in](mailto:services@sahamati.org.in).
+2. **Submit the request:** Send the updated JSON to [services@sahamati.org.in](mailto:services@sahamati.org.in).
+OR 
 
-3. **Use CR Onboarding API:** Alternatively, entities can use the CR Onboarding API to update their entity as per the agreed-upon format for the base URL.
+1. **Use CR Onboarding API:** Alternatively, entities can use the CR Onboarding API to update their entity as per the agreed-upon format for the base URL.
 
 ## What is the deadline for the implementation of ReBit 2.x specs?
 
