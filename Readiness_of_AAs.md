@@ -1,6 +1,6 @@
 | AA Name          | UAT Ready | Prod Ready Date |
 |------------------|-----------|------------------|
-| Finvu AA         | Yes       | Mid Feb          |
+| Finvu AA         | Yes       | Feb End         |
 | NADL AA          | Yes        | Jan End          |
 | Tally AA         | No        | Jan End          |
 | Onemoney AA      | No        | Jan End          |
@@ -9,7 +9,7 @@
 | CAMS AA          |           |                  |
 | Agya AA (Setu)   |           |                  |
 | Anumati AA       |           |                  |
-| Digio AA         |           |                  |
+| Digio AA         |           | Feb End                 |
 | Unacores AA      |           |                  |
 | Yodlee           |           |                  |
 | CRIF AA          |           |                  |
