@@ -4,7 +4,7 @@ To go live on Rebit 2.x specs, entities need to follow these steps:
 
 1. **Implement the specs:** Implement the specifications as outlined on [api.rebit.org.in](api.rebit.org.in).
    
-2. **Test the GET API of the Sahamati CR:** The Sahamati CR now hosts entity details in the following format: BaseUrl: "v1:<URL for v1>,v2:<URL for v2>". FIUs and FIPs are expected to be able to parse the entity details in the recommended format. For more details about the implementation refer to [Changes in the CR structure and APIs](api.rebit.org.in). All FIUs and FIPs are requested to test their implementation of the GET API in the CR in UAT according to the new format. Use the following dummy AA to test your logic- Entity ID: AA00023400
+2. **Test the GET API of the Sahamati CR:** The Sahamati CR now hosts entity details in the following format: BaseUrl: "v1:<URL for v1>,v2:<URL for v2>". FIUs and FIPs are expected to be able to parse the entity details in the recommended format. For more details about the implementation refer to [Changes in the CR and APIs](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Changes_in_CR_and_APIs). All FIUs and FIPs are requested to test their implementation of the GET API in the CR in UAT according to the new format. Use the following dummy AA to test your logic- Entity ID: AA00023400
 
 3. **Test in the UAT environment:** Test the implementation in the UAT environment. To find AAs that are live in UAT on ReBiT 2.x, refer to [this link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Readiness_of_AAs.md).
 
