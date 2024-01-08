@@ -12,7 +12,7 @@ To go live on Rebit 2.x specs, entities need to follow these steps:
 
 ## Do entities need to create a new entry in the CR for their version implementation of ReBit 2.x specs?
 
-No, entities do not need to create a new entry in the CR to declare their readiness for ReBit 2.x specs. The CR can host the endpoint of ReBit 2.0 specs by updating the base URL in the following format: `v1:<url for v1>, v2:<url for v2>`.
+No, entities do not need to create a new entry in the CR to declare their readiness for ReBit 2.x specs. The CR can host the endpoint of ReBit 2.x specs implementation by updating the base URL in the following format: `v1:<url for v1>, v2:<url for v2>`.
 
 ## How do entities declare their readiness for ReBit 2.x specs?
 
