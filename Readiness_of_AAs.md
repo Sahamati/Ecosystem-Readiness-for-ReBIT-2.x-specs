@@ -8,7 +8,7 @@
 | Saafe AA         |         | Jan End          |
 | CAMS AA          |           |                  |
 | Agya AA (Setu)   |           |                  |
-| Anumati AA       |           |                  |
+| Anumati AA       |    Yes       |                  |
 | Digio AA         |           | Feb End                 |
 | Unacores AA      |           |                  |
 | Yodlee           |           |                  |
