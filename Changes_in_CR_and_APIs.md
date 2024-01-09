@@ -30,12 +30,8 @@ There are two scenarios that make it possible for entities to host two different
 
 2. Entities can also host separate endpoints for the implementation of both versions. In this scenario, entities are expected to make calls for V2.x on the V2 endpoint and for V1.x on the V1 endpoint.
 
-The first scenario is handled by the CR, and nothing changes for any entity calling the API. For the second scenario, while there is no change to the structure of the CR, entities that choose the 2nd implementation will need to update their base URL for the implementation of 2.x specs in the following format:
+The first scenario is handled by the CR, and nothing changes for any entity calling the API. For the second scenario, while there is no change to the structure of the CR, entities that choose the 2nd implementation will need to update their base URL for the implementation of 2.x specs in the following format and all entities will be required to parse the baseurl in the same format:
 
 ```markdown
 baseurl: "v1:<url for v1.x>, v2:<url for v2.x>"
-```markdown
-
-The same will be returned by the GET API of the CR and all entities are expected to parse such format while refreshing their copy of the CR in their local systems. 
-
 
