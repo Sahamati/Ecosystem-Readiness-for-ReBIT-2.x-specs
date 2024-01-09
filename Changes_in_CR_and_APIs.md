@@ -35,3 +35,6 @@ The first scenario is handled by the CR, and nothing changes for any entity call
 ```markdown
 baseurl: "v1:<url for v1.x>, v2:<url for v2.x>"
 
+The same will be returned by the GET API of the CR and all entities are expected to parse such format while refreshing their copy of the CR in their local systems. 
+
+
