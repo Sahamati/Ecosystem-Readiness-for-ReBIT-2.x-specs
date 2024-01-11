@@ -1,7 +1,7 @@
 ## For a FIP
 
 ### For UAT Testing
-Once the FIP has implemented the [Rebit 2.0 specs](link), the FIP system must test their implementation in the UAT environment.
+Once the FIP has implemented the [Rebit 2.0 specs](https://api.rebit.org.in/), the FIP system must test their implementation in the UAT environment.
 
 **As an API caller**
 - Develop the parsing logic to parse the response from the CR GET API in UAT as per the following format: `"v1:<url for v1>, v2:<url for v2>"`. 
