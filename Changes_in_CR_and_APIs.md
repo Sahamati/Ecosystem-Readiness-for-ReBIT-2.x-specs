@@ -18,7 +18,10 @@ This document elaborates on how point c will be achieved, focusing on changes re
 
 To accommodate the changes in the ecosystem, Sahamati's ecosystem assets, like CR, token service, etc., have to adapt. Key changes in the Sahamati CR are expected:
 
-- Ecosystem participants (FIPs, FIUs, and AAs) are expected to host more than one version of ReBiT specs implementation, and the CR must be able to support the same. The current implementation of the CR allows for entites to host multiple baseurl's. The ecosystem has jointly agreed to the following format for entities to host multiple baseurl's: 'v1:<url for v1.x>, v2:<url for v2.x>'
+- Ecosystem participants (FIPs, FIUs, and AAs) are expected to host more than one version of ReBiT specs implementation, and the CR must be able to support the same. The current implementation of the CR allows for entites to host multiple baseurl's. The ecosystem has jointly agreed to the following format for entities to host multiple baseurl's:
+  ```markdown
+baseurl: "v1:<url for v1.x>, v2:<url for v2.x>"
+
 
 - Entities would want to test their implementation and, hence, should be able to create new UAT CR entries using the AA Commons portal.
 
