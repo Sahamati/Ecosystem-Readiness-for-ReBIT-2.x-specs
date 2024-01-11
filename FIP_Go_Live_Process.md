@@ -10,8 +10,9 @@ Once the FIP has implemented the [Rebit 2.0 specs](link), the FIP system must te
 - Fetch the entity details of the AA that you are planning to test with using their entity details as per [this sheet](link).
 
 **As an API provider**
-Update the existing entity in UAT to indicate the base URL of version 2.x implementation. Such changes can be made directly using the AA commons portal in the following format: `"v1:<url for v1>, v2:<url for v2>"`.
-Identify AA that are live on 20 using [this link](link).
+- Update the existing entity in UAT to indicate the base URL of version 2.x implementation.
+- Such changes can be made directly using the AA commons portal in the following format: `"v1:<url for v1>, v2:<url for v2>"`.
+- Identify AA that are live on 20 using this [link](link).
 
 Once all steps are completed, an FIP can begin testing with other AAs in the UAT environment. After successful testing in the UAT environment, FIPs can indicate their readiness to go live on production.
 
