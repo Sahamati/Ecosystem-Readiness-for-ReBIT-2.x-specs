@@ -7,12 +7,12 @@ Once the FIP has implemented the [Rebit 2.0 specs](link), the FIP system must te
 - Develop the parsing logic to parse the response from the CR GET API in UAT as per the following format: `"v1:<url for v1>, v2:<url for v2>"`. 
 - This step replicates the behavior of CR GET API V2.0 in production. This change will not impact the current CR GET API V1.0.
 - Test your parsing logic using the following dummy AA entity in the UAT CR- Entity ID: AA00023400.
-- Fetch the entity details of the AA that you are planning to test with using their entity details as per [this sheet](link).
+- Fetch the entity details of the AA that you are planning to test with using their entity details as per this [sheet](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Readiness_of_AAs.md).
 
 **As an API provider**
 - Update the existing entity in UAT to indicate the base URL of version 2.x implementation.
 - Such changes can be made directly using the AA commons portal in the following format: `"v1:<url for v1>, v2:<url for v2>"`.
-- Identify AA that are live on 20 using this [link](link).
+- Identify AA that are live on 20 using this [link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Readiness_of_AAs.md).
 
 Once all steps are completed, an FIP can begin testing with other AAs in the UAT environment. After successful testing in the UAT environment, FIPs can indicate their readiness to go live on production.
 
