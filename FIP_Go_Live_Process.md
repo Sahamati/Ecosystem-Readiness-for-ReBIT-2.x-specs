@@ -4,7 +4,7 @@
 Once the AA has implemented the [Rebit 2.0 specs](https://api.rebit.org.in/), the AA system must test its implementation in the UAT environment. 
 
 **As an API caller**
-- Develop the parsing logic to parse the response from the CR GET API in UAT as per the following format of baseurl: `"v1:<url for v1>, v2:<url for v2>"`. 
+- Develop the parsing logic to parse the response from the CR GET API in UAT as per the following format of 'baseurl:"v1:<url for v1>, v2:<url for v2>"`. 
 - This step replicates the behavior of CR GET API V2.0 in production. This change will not impact the current CR GET API V1.0.
 - Test your parsing logic using the following dummy AA entity in the UAT CR using these Entity IDs: FIP89545, FIU00, FIU00020001, FIPGSP001-23.           
 
