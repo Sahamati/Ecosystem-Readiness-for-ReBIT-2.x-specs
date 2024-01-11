@@ -12,19 +12,13 @@ ReBIT also published a document outlining the strategy for network participants 
 
 - **Co-existence Period:** The co-existence of the current and new versions until the “decommission” date. Different parts of the network may potentially use either of the two API versions to communicate with each other between January 7th and May 12th without any disruption in the overall message flow.
 
-This document elaborates on how point c will be achieved, focusing on changes required in the Registry that Sahamati manages for the AA network.
-
 ## Changes in Sahamati CR
 
 To accommodate the changes in the ecosystem, Sahamati's ecosystem assets, like CR, token service, etc., have to adapt. Key changes in the Sahamati CR are expected:
 
-- Ecosystem participants (FIPs, FIUs, and AAs) are expected to host more than one version of ReBiT specs implementation and as per the ReBiT guidelines, the baseurl for implementing V2.X must contain the component '/V2' at the end of the url. This means that all entities must host  and the CR must be able to support the same. The current CR implementation allows entites to host multiple baseurl's. The ecosystem has jointly agreed to the following format for entities to host multiple baseurl's: "v1:<url for v1.x>, v2:<url for v2.x>"
-  
-- Entities would want to test their implementation and, hence, should be able to create new UAT CR entries using the AA Commons portal. They can do so by referring to the following documents for AAs(link) and FIUs(link). 
+- **Versioning Guidelines:** Entities (FIPs, FIUs, and AAs) are expected to host more than one version of ReBiT specs implementation. As per the ReBiT guidelines, the baseurl for implementing V2.X must contain the component '/V2' at the end of the URL. The agreed format for hosting multiple baseurls is "v1:<url for v1.x>, v2:<url for v2.x>."
 
-- CR GET API that fetches entity details from the CR will have to adapt to share information about the two implementations. The current version of the CR GET API in UAT is able to support this requirement. In order to support this requirement in production, Sahamati will be hosting a new version - V2 of the CR GET API that will return the comma seperated baseurls as per the prescribed format above. The current version of the GET API will continue only to return the v1 baseurls irrespective of if the entity has gone live on ReBiT 2.X implementation or not. 
+- **Testing Implementation:** Entities can create new UAT CR entries using the AA Commons portal for testing. Refer to the following documents for AAs [(link)] and FIUs [(link)].
 
-
-```markdown
-baseurl: "v1:<url for v1.x>, v2:<url for v2.x>"
+- **CR GET API Update:** The CR GET API will be updated to support information about the two implementations. A new version - V2 of the CR GET API in production will return comma-separated baseurls as per the prescribed format. The current version in UAT will continue to return only v1 baseurls.
 
