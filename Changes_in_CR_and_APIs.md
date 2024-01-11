@@ -16,7 +16,7 @@ ReBIT also published a document outlining the strategy for network participants 
 
 To accommodate the changes in the ecosystem, Sahamati's ecosystem assets, like CR, token service, etc., have to adapt. Key changes in the Sahamati CR are expected:
 
-- **Versioning Guidelines:** Entities (FIPs, FIUs, and AAs) are expected to host more than one version of ReBiT specs implementation. As per the ReBiT guidelines, the baseurl for implementing V2.X must contain the component '/V2' at the end of the URL. The agreed format for hosting multiple baseurls is "v1: <URL_for_v1>, v2: <URL_for_v2>".
+- **Versioning Guidelines:** Entities (FIPs, FIUs, and AAs) are expected to host more than one version of ReBiT specs implementation. As per the ReBiT guidelines, the baseurl for implementing V2.X must contain the component '/V2' at the end of the URL. The agreed format for hosting multiple baseurls is  `v1:<url for v1>, v2:<url for v2>`.
   
 - **Testing Implementation:** Entities can create new UAT CR entries using the AA Commons portal for testing. They can do so by referring to the following documents for AAs [(link)] and FIUs [(link)].
 
