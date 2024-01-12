@@ -11,7 +11,7 @@ Once the AA has implemented the [Rebit 2.0 specs](https://api.rebit.org.in/), th
 - Test your parsing logic using the following dummy FIP and FIU entities in the UAT CR using these Entity IDs: FIP89545, FIU00, FIU00020001, FIPGSP001-23.           
 
 **As an API provider**
-- Create a new entity in the UAT CR to indicate the base URL of version 2.x implementation.
+- Create a new entity in the UAT CR to indicate the base URL of version 2.x implementation. It is advised that the existing UAT Entity ID of the AA remains unchanged to ensure FIUs and FIPs currently testing in UAT are not affected. New entity ID should contain all relevant information for both V1.1.2 and V2.X
 - Such changes can be made directly using the AA commons portal in the following format-
 
   `baseurl:"v1:<url for v1>, v2:<url for v2>"` 
