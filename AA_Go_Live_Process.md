@@ -31,7 +31,7 @@ Once the AA has implemented the [Rebit 2.0 specs](https://api.rebit.org.in/), th
   `baseurl:"v1:<url for v1>, v2:<url for v2>"` 
 - Request an update to the status on this [link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Readiness_of_AAs.md) by writing to [kunal@sahamati.org.in](mailto:kunal@sahamati.org.in)
 
-Once all steps are completed, an AA can begin testing with other entities in the UAT environment. After successful testing in the UAT environment, AAs can indicate their readiness to go live on production.
+Once all steps are completed, an AA can begin testing with other entities in the UAT environment and get their implementation certified, details of certifiers can be found [here](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Status_of_Certifiers.md) After successful testing in the UAT environment, AAs can indicate their readiness to go live on production.
 
 ## For Moving to Production
 After successful testing in UAT, AAs can now declare themselves ready for production. To declare themselves live, AAs must request an update to their existing Prod CR entry.
