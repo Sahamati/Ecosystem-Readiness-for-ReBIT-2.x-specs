@@ -19,5 +19,5 @@ Once all steps are completed, an FIP/FIU can begin testing with other AAs in the
 ## For Moving to Production
 After successful testing in UAT, FIP/FIUs can now declare themselves ready for production. To declare themselves as live, FIP/FIUs must request an update to their existing Prod CR entry.
 
-- FIP/FIUs must first integrate the CR GET API V2.0 that returns both the V1 and V2 base URLs for entities that are live on V2.
+- FIP/FIUs must first integrate the CR GET API V2.0 that returns both the V1 and V2 base URLs for entities that are live on V2. The same codebase tested in UAT as mentioned above in the steps under "As an API caller" will be used in this step. 
 - Once the integration of the CR GET API V2.0 is complete, FIP/FIUs can request entry into the CR by sending the updated prod JSON to [services@sahamati.org.in](mailto:services@sahamati.org.in).
