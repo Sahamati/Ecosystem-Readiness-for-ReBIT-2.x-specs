@@ -7,7 +7,7 @@ Once the AA has implemented the [Rebit 2.0 specs](https://api.rebit.org.in/), th
 - Develop the parsing logic to parse the response from the CR GET API in UAT as per the following format of baseurl-
 
   `baseurl:"v1:<url for v1>, v2:<url for v2>"`. 
-- This step replicates the behavior of CR GET API V2.0 in production. This change will not impact the current CR GET API V1.0. More details on the changes in the CR and GET API can be found [here](link)
+- This step replicates the behavior of CR GET API V2.0 in production. This change will not impact the current CR GET API V1.0. More details on the changes in the CR and GET API can be found [here](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Changes_in_CR_and_APIs.md)
 - Test your parsing logic using the following dummy AA entity in the UAT CR using these Entity IDs: FIP89545, FIU00, FIU00020001, FIPGSP001-23.           
 
 **As an API provider**
