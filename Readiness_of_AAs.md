@@ -1,6 +1,6 @@
 | UAT Test Entity ID    | AA Name          | UAT Ready | Prod Ready Date |
 |------------------|------------------|-----------|------------------|
-|   | Finvu AA         |        | Feb End          |
+|   | Finvu AA         | 1st Feb       | Feb End          |
 |                  | NADL AA          |        | Jan End          |
 |              TallyEdge2    | Tally AA         |    Yes       | Jan End          |
 |                  | Onemoney AA      | 29th Jan 2024          | Feb End          |
