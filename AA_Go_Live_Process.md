@@ -11,16 +11,16 @@ Once the AA has implemented the [Rebit 2.0 specs](https://api.rebit.org.in/), th
 - Test your parsing logic using the following dummy FIP and FIU entities in the UAT CR using these Entity IDs: FIP89545, FIU00, FIU00020001, FIPGSP001-23.           
 
 **As an API provider**
-- Create a new entity in the UAT CR to indicate the base URL of version 2.x implementation. It is advised that the existing UAT Entity ID of the AA remains unchanged to ensure FIUs and FIPs currently testing in UAT are not affected. New entity ID should contain all relevant information for both V1.1.2 and V2.X
-- Such changes can be made directly using the AA commons portal in the following format-
+- Create a new entity in the UAT CR to indicate the base URL of version 2.x implementation. It is advised that the existing UAT Entity ID of the AA remains unchanged to ensure FIUs and FIPs currently testing with the AA in UAT on the existing v1.x version are not affected. The new entity ID should contain the baseurl's for both V1.1.2 and V2.X
+- Such changes can be made directly using the AA Commons portal in the following format-
 
   `baseurl:"v1:<url for v1>, v2:<url for v2>"` 
 - Request an update to the status on this [link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Readiness_of_AAs.md) by writing to [kunal@sahamati.org.in](mailto:kunal@sahamati.org.in)
 
-Once all steps are completed, an AA can begin testing with other entites in the UAT environment. After successful testing in the UAT environment, AAs can indicate their readiness to go live on production.
+Once all steps are completed, an AA can begin testing with other entities in the UAT environment. After successful testing in the UAT environment, AAs can indicate their readiness to go live on production.
 
 ## For Moving to Production
 After successful testing in UAT, AAs can now declare themselves ready for production. To declare themselves live, AAs must request an update to their existing Prod CR entry.
 
-- AAs must first integrate the CR GET API V2.0 that returns the V1 and V2 base URLs for live entities on V2.
+- AAs must first integrate the CR GET API V2.0 that returns the V1 and V2 base URLs for live entities on V2. 
 - Once the CR GET API V2.0 integration is complete, AAs can request entry into the CR by sending the updated prod JSON to [services@sahamati.org.in](mailto:services@sahamati.org.in).
