@@ -27,7 +27,7 @@ Once the FIP/FIU has implemented the [Rebit 2.0 specs](https://api.rebit.org.in/
 - Such changes can be made directly using the AA commons portal in the following format: `"v1:<url for v1>, v2:<url for v2>"`. In case a new FIU/FIP chooses to go live directly on V2 without supporting V1, the baseurl format should be: `baseurl: "v2:<url for v2>"` 
 - Test with AAs that are ready in UAT on V2.0 using this [link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Readiness_of_AAs.md).
 
-After successful testing in the UAT environment, FIP/FIUs can indicate their readiness to go live on production.
+After successful testing in the UAT environment, FIP/FIUs can indicate their readiness to go live on production. Entities are also recommended to get their implementation certified. Details of the certifiers can be found [here](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Status_of_Certifiers.md)
 
 ## For Moving to Production
 After successful testing in UAT, FIP/FIUs can now declare themselves ready for production. To declare themselves as live, FIP/FIUs must request an update to their existing Prod CR entry or request a new entry only in case they have not implemented V1.x.
