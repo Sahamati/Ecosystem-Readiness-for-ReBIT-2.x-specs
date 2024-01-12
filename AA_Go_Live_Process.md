@@ -22,5 +22,5 @@ Once all steps are completed, an AA can begin testing with other entities in the
 ## For Moving to Production
 After successful testing in UAT, AAs can now declare themselves ready for production. To declare themselves live, AAs must request an update to their existing Prod CR entry.
 
-- AAs must first integrate the CR GET API V2.0 that returns the V1 and V2 base URLs for live entities on V2. 
+- AAs must first integrate the CR GET API V2.0 that returns the V1 and V2 base URLs for live entities on V2. The same codebase tested in UAT as mentioned above in the steps under "As an API caller" will be used in this step.
 - Once the CR GET API V2.0 integration is complete, AAs can request entry into the CR by sending the updated prod JSON to [services@sahamati.org.in](mailto:services@sahamati.org.in).
