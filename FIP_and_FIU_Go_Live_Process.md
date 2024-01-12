@@ -34,4 +34,6 @@ After successful testing in UAT, FIP/FIUs can now declare themselves ready for p
 
 - FIP/FIUs must first integrate the CR GET API V2.0 that returns both the V1 and V2 base URLs for entities that are live on V2. The same codebase tested in UAT as mentioned above in the steps under "As an API caller" will be used in this step. 
 - Once the integration of the CR GET API V2.0 is complete, FIP/FIUs can request entry into the CR by sending the updated prod JSON to [services@sahamati.org.in](mailto:services@sahamati.org.in).
-- The GET API V2.0 will be in production starting Jan 25th, 2024. The same is already enabled in UAT. Prod Endpoint:  UAT Endpoint
+- The GET API V2.0 will be in production starting Jan 25th, 2024. The same is already enabled in UAT.
+- `Prod Endpoint:  `
+- `UAT Endpoint:`
