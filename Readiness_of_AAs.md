@@ -3,7 +3,7 @@
 |   | Finvu AA         |        | Feb End          |
 |                  | NADL AA          |        | Jan End          |
 |                  | Tally AA         |           | Jan End          |
-|                  | Onemoney AA      |           | Jan End          |
+|                  | Onemoney AA      | 29th Jan 2024          | Feb End          |
 |                  | Phonepe AA       |           | Jan End          |
 |                  | Saafe AA         |           | Jan End          |
 |                  | CAMS AA          |           |                  |
