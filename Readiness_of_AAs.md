@@ -1,4 +1,4 @@
-| UAT Entity ID    | AA Name          | UAT Ready | Prod Ready Date |
+| UAT Test Entity ID    | AA Name          | UAT Ready | Prod Ready Date |
 |------------------|------------------|-----------|------------------|
 | cookiejartestaa  | Finvu AA         | Yes       | Feb End          |
 |                  | NADL AA          | Yes       | Jan End          |
