@@ -7,7 +7,7 @@
 |                  | Phonepe AA       |           | Jan End          |
 |                  | Saafe AA         |           | Jan End          |
 |                  | CAMS AA          |           |                  |
-|                  | Agya AA (Setu)   |           |                  |
+|                  | Agya AA (Setu)   |           |  Mar End                |
 |                  | Anumati AA       | Yes       | Jan End          |
 |                  | Digio AA         |           | Feb End          |
 |                  | Unacores AA      |           | Feb End          |
