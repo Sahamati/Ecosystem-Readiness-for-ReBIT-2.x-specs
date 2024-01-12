@@ -5,7 +5,7 @@
 |              TallyEdge2    | Tally AA         |    Yes       | Jan End          |
 |                  | Onemoney AA      | 29th Jan 2024          | Feb End          |
 |                  | Phonepe AA       | 19th Jan          | Jan End          |
-|                  | Saafe AA         |           | Jan End          |
+|                  | Saafe AA         |17th Jan           | Jan End          |
 |                  | CAMS AA          |           |                  |
 |                  | Agya AA (Setu)   |           |  Mar End                |
 |                  | Anumati AA       |    17th Jan 2024    | Jan End          |
