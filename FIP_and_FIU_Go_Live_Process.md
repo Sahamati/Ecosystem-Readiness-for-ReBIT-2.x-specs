@@ -1,4 +1,4 @@
-# ReBIT AA Specifications Update (Version 2.0.0)
+# ReBIT AA Specifications Update (Version 2.X)
 
 On August 9th, 2023, ReBIT published a major update to the AA specifications in the form of Version 2.0.0 of the catalog of APIs that FIPs, AAs, and FIUs have to implement.
 
