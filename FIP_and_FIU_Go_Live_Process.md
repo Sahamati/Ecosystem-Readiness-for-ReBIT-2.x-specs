@@ -11,7 +11,7 @@ Once the FIP/FIU has implemented the [Rebit 2.0 specs](https://api.rebit.org.in/
 
 **As an API provider**
 - Update the existing entity in UAT to indicate the base URL of version 2.x implementation.
-- Such changes can be made directly using the AA commons portal in the following format: `"v1:<url for v1>, v2:<url for v2>"`.
+- Such changes can be made directly using the AA commons portal in the following format: `"v1:<url for v1>, v2:<url for v2>"`. In case a new FIU/FIP is choosing not go live on V1,they must also send the baseurl in the same format with a null in the v1 tag. 
 - Identify AA that are live on V2.0 using this [link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs-/blob/main/Readiness_of_AAs.md).
 
 Once all steps are completed, an FIP/FIU can begin testing with other AAs in the UAT environment. After successful testing in the UAT environment, FIP/FIUs can indicate their readiness to go live on production.
