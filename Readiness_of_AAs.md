@@ -12,5 +12,5 @@
 |                  | Digio AA         |           | Feb End          |
 |                  | Unacores AA      |           | Feb End          |
 |                  | Yodlee           |           |                  |
-|                  | CRIF AA          |           |                  |
+|             CRIF-CONNECT-UAT2-AA     | CRIF AA          |      Yes     |                  |
 |                  | Protean AA       |           | Feb End          |
