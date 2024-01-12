@@ -24,3 +24,6 @@ After successful testing in UAT, AAs can now declare themselves ready for produc
 
 - AAs must first integrate the CR GET API V2.0 that returns the V1 and V2 base URLs for live entities on V2. The same codebase tested in UAT as mentioned above in the steps under "As an API caller" will be used in this step.
 - Once the CR GET API V2.0 integration is complete, AAs can request entry into the CR by sending the updated prod JSON to [services@sahamati.org.in](mailto:services@sahamati.org.in).
+- The GET API V2.0 will be in production starting Jan 25th, 2024. The same is already enabled in UAT.
+`Prod Endpoint: `
+`UAT Endpoint`
