@@ -13,4 +13,4 @@
 |                  | Unacores AA      |           | Feb End          |
 |                  | Yodlee           |           |                  |
 |             CRIF-CONNECT-UAT2-AA     | CRIF AA          |      Yes     |                  |
-|                  | Protean AA       | 19th Jan          | Feb End          |
+|         proteanuat         | Protean AA       | Yes         | Feb End          |
