@@ -5,12 +5,12 @@
 |              TallyEdge2    | Tally AA         |    Yes       | Jan End          |
 |                  | Onemoney AA      | 29th Jan 2024          | Feb End          |
 |                  | Phonepe AA       | 19th Jan          | Jan End          |
-|                  | Saafe AA         |17th Jan           | Jan End          |
-|                  | CAMS AA          |           |                  |
+|    dashboard-aa              | Saafe AA         |17th Jan           | Feb Mid          |
+|                  | CAMS AA          | Feb End          |                  |
 |                  | Agya AA (Setu)   |           |  Mar End                |
-|                  | Anumati AA       |    17th Jan 2024    | Jan End          |
+|                  | Anumati AA       |    30th Jan 2024    | Feb Mid          |
 |                  | Digio AA         |  25th Jan 2024         | Feb End          |
 |                  | Unacores AA      |           | Feb End          |
-|                  | Yodlee           |           |                  |
+|                  | Yodlee           |           |   Feb End               | Mar End
 |             CRIF-CONNECT-UAT2-AA     | CRIF AA          |      Yes     |                  |
 |         proteanuat         | Protean AA       | Yes         | Feb End          |
