@@ -2,7 +2,7 @@
 |------------------|------------------|-----------|------------------|
 |   | Finvu AA         | 1st Feb       | Feb End          |
 |                  | NADL AA          |        | Jan End          |
-|              TallyEdge2    | Tally AA         |    Yes       | Jan End          |
+|                  | Tally AA         |    Jan End       | Feb End          |
 |                  | Onemoney AA      | 29th Jan 2024          | Feb End          |
 |                  | Phonepe AA       | 19th Jan          | Jan End          |
 |    dashboard-aa              | Saafe AA         |17th Jan           | Feb Mid          |
