@@ -12,4 +12,5 @@ To accommodate the changes in the ecosystem, Sahamati's ecosystem assets, like C
   [Postman Collection](https://drive.google.com/drive/folders/1NmtiaL-Dv5fsEzGR79iWXr5Tlt__U6YZ?usp=sharing)
   
   `Prod Endpoint:  https://cr.sahamati.org.in/v2/entityInfo/<entitytype>`
+  
   `UAT Endpoint: https://uatcr.sahamati.org.in/v2/entityInfo/<entitytype>`
