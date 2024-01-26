@@ -10,5 +10,6 @@ To accommodate the changes in the ecosystem, Sahamati's ecosystem assets, like C
 - **CR GET API Update:** The CR GET API will be updated to support information about the two implementations. A new version - V2 of the CR GET API in production will return comma-separated baseurls as per the prescribed format above. The current version in Production will continue only to return the v1 baseurls irrespective of if the entity has gone live on ReBiT 2.X implementation or not. This is to ensure smooth transition for entities during the phase where they can be live on either V1, or V2 or both.
 - The GET API V2.0 will be in production starting Jan 25th, 2024.
   [Postman Collection](https://drive.google.com/drive/folders/1NmtiaL-Dv5fsEzGR79iWXr5Tlt__U6YZ?usp=sharing)
+  
   `Prod Endpoint:  https://cr.sahamati.org.in/v2/entityInfo/<entitytype>`
   `UAT Endpoint: https://uatcr.sahamati.org.in/v2/entityInfo/<entitytype>`
