@@ -6,7 +6,7 @@
 |                  | Onemoney AA      | 29th Jan 2024          | Feb End          |
 |                  | Phonepe AA       | 19th Jan          | Jan End          |
 |    dashboard-aa              | Saafe AA         |17th Jan           | Feb Mid          |
-| AA00022222                 | CAMS AA          | Feb End          |                  |
+| AA00022222                 | CAMS AA          | Ready          |                  |
 |                  | Agya AA (Setu)   |           |  Mar End                |
 |                  | Anumati AA       |    30th Jan 2024    | Feb Mid          |
 |                  | Digio AA         |  25th Jan 2024         | Feb End          |
