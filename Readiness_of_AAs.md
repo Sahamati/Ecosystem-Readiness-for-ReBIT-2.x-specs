@@ -3,8 +3,8 @@
 |   | Finvu AA         | 1st Feb       | Feb End          |
 |                  | NADL AA          |        | Jan End          |
 |                  | Tally AA         |    Jan End       | Feb End          |
-|                  | Onemoney AA      | 29th Jan 2024          | Feb End          |
-|                  | Phonepe AA       | 19th Jan          | Jan End          |
+|                  | Onemoney AA      | 10th Feb 2024          | Feb End          |
+|                  | Phonepe AA       | 10th Feb 2024          | Jan End          |
 |    dashboard-aa              | Saafe AA         |17th Jan           | Feb Mid          |
 | AA00022222                 | CAMS AA          | Ready          |                  |
 |                  | Agya AA (Setu)   |           |  Mar End                |
