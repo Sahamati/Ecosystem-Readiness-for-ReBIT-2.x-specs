@@ -15,3 +15,5 @@ To accommodate the changes in the ecosystem, Sahamati's ecosystem assets, like C
   `Prod Endpoint:  https://cr.sahamati.org.in/v2/entityInfo/<entitytype>`
   
   `UAT Endpoint: https://uatcr.sahamati.org.in/v2/entityInfo/<entitytype>`
+
+  [Sample JSON](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs/blob/main/Sample_JSON.json)
