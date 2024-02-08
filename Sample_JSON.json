@@ -1,0 +1,47 @@
+[
+    {
+        "ver": "1.0",
+        "timestamp": "2024-02-06 10:11:29.192",
+        "txnid": "5ceeabb5-fac7-4840-88c2-51b210eacf7e",
+        "requester": {
+            "name": "Kunal-FIP",
+            "id": "Kunal-FIP"
+        },
+        "entityinfo": {
+            "name": "Kunal-FIP",
+            "id": "Kunal-FIP",
+            "code": "Kunal-FIP",
+            "entityhandle": "",
+            "Identifiers": [
+                {
+                    "category": "STRONG",
+                    "type": "MOBILE"
+                }
+            ],
+            "baseurl": "https://www.kunalfip.com",
+            "webviewurl": null,
+            "fitypes": [
+                "TERM-DEPOSIT"
+            ],
+            "certificate": {
+                "alg": "RS256",
+                "e": "AQAB",
+                "kid": "8Hc7ULRcwyv-jlRzPR1vy7F6VP6xQeg4NUtN8agewV4",
+                "kty": "RSA",
+                "n": "2O9geATKmm72-KWtNef_v-iqZGWu7ebnahjTKDoWvbKMJ2AfkXv0Xvy7z43SibgTlRFjdmo4u6tsvE340Gn4RPmuu_oM1YcqR7wiWFmJEkk7vph4PB-8SwhBbcriVp98OqofHkm8t2ASrahc8eFExEYKNIPQSPXQYsGgKxXbTIb1ExeZDEo4Zrk3gTqx1NYeF1NQSQ542Ey6iAA00eDdYWn5TiMqxNXReU7en3QOJj5Hdh2JxNoKkLFuPgUommhPiAM7vjVsxoXPgXDjzUys05h9fu96CVhTGZUmHeiMKaw8orn_onCq1Ks6T_UIuGk8S2qSB21q-5M0cQb2UMVE7w",
+                "use": "sig"
+            },
+            "tokeninfo": {
+                "url": "",
+                "desc": ""
+            },
+            "gsp": null,
+            "signature": {},
+            "inboundports": null,
+            "outboundports": null,
+            "ips": null,
+            "credentialsPk": null,
+            "oldEntityId": null
+        }
+    }
+]
