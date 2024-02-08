@@ -12,5 +12,5 @@
 |                  | Digio AA         |  25th Jan 2024         | Feb End          |
 |                  | Unacores AA      |           | Feb End          |
 |                  | Yodlee           |   Feb End          |                | Mar End
-|             CRIF-CONNECT-UAT2-AA     | CRIF AA          |      Yes     |                  |
+|             CRIF-CONNECT-UAT-AA     | CRIF AA          |      Yes     |                  |
 |         proteanuat         | Protean AA       | Yes         | Feb End          |
