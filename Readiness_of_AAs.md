@@ -1,7 +1,7 @@
 | UAT Test Entity ID    | AA Name          | UAT Ready | Prod Ready Date |
 |------------------|------------------|-----------|------------------|
 |  cookiejar-aa@finvu.in | Finvu AA         | Yes       | Feb End          |
-| https://svc-services-proxy-sb-cluster.nadl.co.in/v2                 | NADL AA          |        | Jan End          |
+|             | NADL AA          |        | Jan End          |
 |   TallyEdge               | Tally AA         |    Ready       | Feb End          |
 |                  | Onemoney AA      | 10th Feb 2024          | Feb End          |
 |                  | Phonepe AA       | 10th Feb 2024          | Jan End          |
