@@ -12,6 +12,8 @@ ReBIT also published a document outlining the strategy for network participants 
 
 - **Co-existence Period:** The co-existence of the current and new versions until the “decommission” date. Different parts of the network may potentially use either of the two API versions to communicate with each other between January 7th and May 12th without any disruption in the overall message flow.
 
+- **Only for FIPs** FIPs supporting FI Type "Term-Deposit" must migrate it to "Term_Deposit"
+
 ## For a FIP/FIU
 
 ### For UAT Testing
