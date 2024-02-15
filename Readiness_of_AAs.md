@@ -11,6 +11,6 @@
 |                  | Anumati AA       |    Yes    | Feb Mid          |
 |                  | Digio AA         |  25th Jan 2024         | Feb End          |
 |   UNACORES-AA-UAT-2               | Unacores AA      | Yes          | Feb End          |
-|                  | Yodlee           |   Feb End          |                | Mar End
+| YODLEEFINSOFT-AA-UAT                 | Yodlee           |   Yes          |                | Mar End
 |             CRIF-CONNECT-UAT-AA     | CRIF AA          |      Yes     |                  |
 |         proteanuat         | Protean AA       | Yes         | Feb End          |
