@@ -8,9 +8,9 @@
 |    dashboard-aa              | Saafe AA         |Ready           | Feb Mid          |
 | AA00022222                 | CAMS AA          | Ready          |                  |
 |                  | Agya AA (Setu)   |           |  Mar End                |
-|                  | Anumati AA       |    30th Jan 2024    | Feb Mid          |
+|                  | Anumati AA       |    Yes    | Feb Mid          |
 |                  | Digio AA         |  25th Jan 2024         | Feb End          |
-|                  | Unacores AA      |           | Feb End          |
+|   UNACORES-AA-UAT-2               | Unacores AA      | Yes          | Feb End          |
 |                  | Yodlee           |   Feb End          |                | Mar End
 |             CRIF-CONNECT-UAT-AA     | CRIF AA          |      Yes     |                  |
 |         proteanuat         | Protean AA       | Yes         | Feb End          |
