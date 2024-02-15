@@ -4,7 +4,7 @@
 |  AA00023403           | NADL AA          |    Ready    | Jan End          |
 |   TallyEdge               | Tally AA         |    Ready       | Feb End          |
 |                  | Onemoney AA      | 10th Feb 2024          | Feb End          |
-|                  | Phonepe AA       | 10th Feb 2024          | Jan End          |
+|                  | Phonepe AA       | 17th Feb 2024          | Jan End          |
 |    dashboard-aa              | Saafe AA         |Ready           | Feb Mid          |
 | AA00022222                 | CAMS AA          | Ready          |                  |
 |                  | Agya AA (Setu)   |           |  Mar End                |
