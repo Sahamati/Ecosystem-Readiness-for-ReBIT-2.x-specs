@@ -6,11 +6,11 @@
 |                  | Onemoney AA      | March 1st week          | March End          |
 |                  | Phonepe AA       | 19th Feb 2024          | March End          |
 |    dashboard-aa              | Saafe AA         |Yes           | Feb Mid          |
-| AA00022222                 | CAMS AA          | Yes          |                  |
+| AA00022222                 | CAMS AA          | Yes          |  Awaiting confirmation                |
 |                  | Agya AA (Setu)   | Feb End          |  Mar End                |
 |    Anumati-UAT              | Anumati AA       |    Yes    | Feb End          |
 |                  | Digio AA         |  25th Jan 2024         | Feb End          |
 |   UNACORES-AA-UAT-2               | Unacores AA      | Yes          | Feb End          |
-| YODLEEFINSOFT-AA-UAT                 | Yodlee           |   Yes          |                | Mar End
-|             CRIF-CONNECT-UAT-AA     | CRIF AA          |      Yes     |                  |
+| YODLEEFINSOFT-AA-UAT                 | Yodlee           |   Yes          | Mar End               | 
+|             CRIF-CONNECT-UAT-AA     | CRIF AA          |      Yes     |   Awaiting confirmation               |
 |         proteanuat         | Protean AA       | Yes         | Feb End          |
