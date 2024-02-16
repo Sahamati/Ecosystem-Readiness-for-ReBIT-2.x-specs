@@ -8,7 +8,7 @@
 |    dashboard-aa              | Saafe AA         |Ready           | Feb Mid          |
 | AA00022222                 | CAMS AA          | Ready          |                  |
 |                  | Agya AA (Setu)   | Feb End          |  Mar End                |
-|                  | Anumati AA       |    Yes    | Feb Mid          |
+|    Anumati-UAT              | Anumati AA       |    Yes    | Feb End          |
 |                  | Digio AA         |  25th Jan 2024         | Feb End          |
 |   UNACORES-AA-UAT-2               | Unacores AA      | Yes          | Feb End          |
 | YODLEEFINSOFT-AA-UAT                 | Yodlee           |   Yes          |                | Mar End
