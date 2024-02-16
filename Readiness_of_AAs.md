@@ -3,7 +3,7 @@
 |  cookiejar-aa@finvu.in | Finvu AA         | Yes       | Feb End          |
 |  AA00023403           | NADL AA          |    Ready    | Jan End          |
 |   TallyEdge               | Tally AA         |    Ready       | Feb End          |
-|                  | Onemoney AA      | 10th Feb 2024          | Feb End          |
+|                  | Onemoney AA      | March 1st week          | March End          |
 |                  | Phonepe AA       | 17th Feb 2024          | Jan End          |
 |    dashboard-aa              | Saafe AA         |Ready           | Feb Mid          |
 | AA00022222                 | CAMS AA          | Ready          |                  |
