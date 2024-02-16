@@ -9,7 +9,7 @@
 | AA00022222                 | CAMS AA          | Yes          |  Awaiting confirmation                |
 |                  | Agya AA (Setu)   | Feb End          |  Mar End                |
 |    Anumati-UAT              | Anumati AA       |    Yes    | Feb End          |
-|                  | Digio AA         |  25th Jan 2024         | Feb End          |
+|                  | Digio AA         |  Awaiting confirmation        | Feb End          |
 |   UNACORES-AA-UAT-2               | Unacores AA      | Yes          | Feb End          |
 | YODLEEFINSOFT-AA-UAT                 | Yodlee           |   Yes          | Mar End               | 
 |             CRIF-CONNECT-UAT-AA     | CRIF AA          |      Yes     |   Awaiting confirmation               |
