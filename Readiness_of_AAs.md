@@ -7,7 +7,7 @@
 |                  | Phonepe AA       | 17th Feb 2024          | Jan End          |
 |    dashboard-aa              | Saafe AA         |Ready           | Feb Mid          |
 | AA00022222                 | CAMS AA          | Ready          |                  |
-|                  | Agya AA (Setu)   |           |  Mar End                |
+|                  | Agya AA (Setu)   | Feb End          |  Mar End                |
 |                  | Anumati AA       |    Yes    | Feb Mid          |
 |                  | Digio AA         |  25th Jan 2024         | Feb End          |
 |   UNACORES-AA-UAT-2               | Unacores AA      | Yes          | Feb End          |
