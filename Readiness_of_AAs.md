@@ -1,12 +1,12 @@
 | UAT Test Entity ID    | AA Name          | UAT Ready | Prod Ready Date |
 |------------------|------------------|-----------|------------------|
 |  cookiejar-aa@finvu.in | Finvu AA         | Yes       | Feb End          |
-|  AA00023403           | NADL AA          |    Ready    | Feb End          |
-|   TallyEdge               | Tally AA         |    Ready       | Feb End          |
+|  AA00023403           | NADL AA          |    Yes    | Feb End          |
+|   TallyEdge               | Tally AA         |    Yes       | Feb End          |
 |                  | Onemoney AA      | March 1st week          | March End          |
-|                  | Phonepe AA       | 17th Feb 2024          | Jan End          |
-|    dashboard-aa              | Saafe AA         |Ready           | Feb Mid          |
-| AA00022222                 | CAMS AA          | Ready          |                  |
+|                  | Phonepe AA       | 19th Feb 2024          | March End          |
+|    dashboard-aa              | Saafe AA         |Yes           | Feb Mid          |
+| AA00022222                 | CAMS AA          | Yes          |                  |
 |                  | Agya AA (Setu)   | Feb End          |  Mar End                |
 |    Anumati-UAT              | Anumati AA       |    Yes    | Feb End          |
 |                  | Digio AA         |  25th Jan 2024         | Feb End          |
