@@ -1,6 +1,6 @@
 | UAT Test Entity ID    | AA Name          | UAT Ready | Prod Ready Date |
 |------------------|------------------|-----------|------------------|
-|  cookiejar-aa@finvu.in | Finvu AA         | Yes       | Feb End          |
+|  cookiejar-aa@finvu.in | Finvu AA         | Yes       | March End          |
 |  AA00023403           | NADL AA          |    Yes    | Feb End          |
 |   TallyEdge               | Tally AA         |    Yes       | March End          |
 |                  | Onemoney AA      | March 1st week          | March End          |
