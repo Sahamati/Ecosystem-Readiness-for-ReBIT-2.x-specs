@@ -1,0 +1,76 @@
+ID,Test Case,FIP 1.x.x,FIP 2.x.x,AA 1.x.x,AA 2.x.x,FIU 1.x.x,FIU 2.x.x,Remarks
+1,FIU to AA: /Consent with FiType TERM_DEPOSIT,,,,Y,,Y,FIU on 2.x should be able to make a request to AA on 2.x 
+2,FIU to AA: /Consent with FiType TERM-DEPOSIT,,,,Y,,Y,Either AA must transform the /consent request to TERM_DEPOSIT or reject the consent request
+3,FIU to AA: /Consent with FiType TERM_DEPOSIT,,,Y,,,Y,"If AA is not live on 2.x, FIU on 2.x should be able to use TERM_DEPOSIT and AA on 1.x should transform the request and support it"
+4,FIU to AA: /Consent with FiType TERM-DEPOSIT,,,Y,,,Y,FIU on 2.x should not be able to make a request to AA with FI Type: TERM-DEPOSIT for AAs that are not live on 2.x
+5,FIU to AA: /Consent with FiType TERM_DEPOSIT,,,Y,,Y,,FIU 1.x should not be able to raise a consent request on AA 2.x
+5,FIU to AA: /Consent with FiType TERM-DEPOSIT,,,Y,,Y,,FIU 1.x should not be able to raise a consent request on AA 2.x
+6,FIU to AA Redirection,,,,Y,,Y,"Irrespective of the version of the AA and the FIU, FIU should be able to redirect the customer to the AA Client "
+7,FIU to AA Redirection,,,Y,,,Y,
+8,FIU to AA Redirection,,,,Y,Y,,
+9,FIU to AA Redirection,,,Y,,Y,,
+10,After Redirection: AA User Linked Accounts [TERM_DEPOSIT],,,,Y,,,
+11,After Redirection: AA User Linked Accounts [TERM-DEPOSIT],,,,Y,,,
+12,After Redirection: AA User Linked Accounts [TERM_DEPOSIT],,,Y,,,,
+13,After Redirection: AA User Linked Accounts [TERM-DEPOSIT],,,Y,,,,
+14,After Redirection: AA to FIP: Discovery,,Y,,Y,,,
+15,After Redirection: AA to FIP: Discovery,Y,,,Y,,,
+16,After Redirection: AA to FIP: Discovery,Y,,Y,,,,
+17,After Redirection: AA to FIP: Link Account,,Y,,Y,,,
+18,After Redirection: AA to FIP: Link Account,Y,,,Y,,,
+19,After Redirection: AA to FIP: Link Account,Y,,Y,,,,
+20,After Redirection: AA to FIP: Confirm Link Account,,Y,,Y,,,
+21,After Redirection: AA to FIP: Confirm Link Account,Y,,,Y,,,
+22,After Redirection: AA to FIP: Confirm Link Account,Y,,Y,,,,
+23,After Redirection: AA to FIP: De-Link Account,,Y,,Y,,,
+24,After Redirection: AA to FIP: De-Link Account,Y,,,Y,,,
+25,After Redirection: AA to FIP: De-Link Account,Y,,Y,,,,
+26,After Redirection: AA to FIP: Action Consent [FIU Sent TERM_DEPOSIT],,Y,,Y,,Y,
+27,After Redirection: AA to FIP: Action Consent [FIU Sent TERM_DEPOSIT],Y,,,Y,,Y,
+28,After Redirection: AA to FIP: Action Consent [FIU Sent TERM_DEPOSIT],Y,,Y,,Y,,
+29,FIU to AA: /Consent/handle,,,,Y,,Y,FIU on 2.x can make a call on AA 1.x and 2.x
+30,FIU to AA: /Consent/handle,,,Y,,,Y,
+31,FIU to AA: /Consent/handle,,,Y,,Y,,FIU on 1.x can not make a call on AA 2.x
+32,AA to FIU: /Consent/Notification,,,,Y,,Y,AA on 2.x should be able to call FIU 2.x
+33,AA to FIU: /Consent/Notification,,,,Y,Y,,AA on 2.x should also be able to call FIU 1.x
+34,AA to FIU: /Consent/Notification,,,Y,,,Y,AA on 1.x should be able to call FIU on 2.x
+35,AA to FIU: /Consent/Notification,,,Y,,Y,,
+36,FIU to AA: /Consent/fetch,,,,Y,,Y,
+37,FIU to AA: /Consent/fetch,,,Y,,,Y,
+38,FIU to AA: /Consent/fetch,,,Y,,Y,,
+39,FIU to AA: /FI/request [Curve25519],,,,Y,,Y,
+40,FIU to AA: /FI/request [Curve25519],,,Y,,,Y,
+41,FIU to AA: /FI/request [Curve25519],,,Y,,Y,,
+42,FIU to AA: /FI/request [X25519],,,,Y,,Y,
+43,FIU to AA: /FI/request [X25519],,,Y,,,Y,
+44,AA to FIP: /FI/request [FIU sent Curve25519],,Y,,Y,,Y,
+45,AA to FIP: /FI/request [FIU sent Curve25519],Y,,,Y,,Y,
+46,AA to FIP: /FI/request [FIU sent Curve25519],Y,,Y,,Y,Y,
+47,AA to FIP: /FI/request [FIU sent X25519],,Y,,Y,,Y,
+48,AA to FIP: /FI/request [FIU sent X25519],Y,,,Y,,Y,
+49,FIP to AA: /FI/Notification,,Y,,Y,,,
+50,FIP to AA: /FI/Notification,,Y,Y,,,,
+51,FIP to AA: /FI/Notification,Y,,,Y,,,
+52,FIP to AA: /FI/Notification,Y,,Y,,,,
+53,AA to FIP: /FI/fetch,,Y,,Y,,,
+54,AA to FIP: /FI/fetch,Y,,,Y,,,
+55,AA to FIP: /FI/fetch,Y,,Y,,,,
+56,AA to FIU: /FI/Notification,,,,Y,,Y,
+57,AA to FIU: /FI/Notification,,,,Y,Y,,
+58,AA to FIU: /FI/Notification,,,Y,,,Y,
+59,AA to FIU: /FI/Notification,,,Y,,Y,,
+60,FIU to AA: /FI/fetch,,,,Y,,Y,
+61,FIU to AA: /FI/fetch,,,Y,,,Y,
+62,FIU to AA: /FI/fetch,,,Y,,Y,,
+,,,,,,,,
+,"1. Any API call to AA 1.x will have request body with version 1.x irrespective of the version of FIU or FIP
+2. Any error response from AA 1.x will have the version in the error response as 1.x
+3. AA 1.x will always call FIU or FIP 1.x version 
+",,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,"1. Any API call to AA 2.x will hve the request body with version 2.x irrespective of the version of FIU or FIP
+2. Any error response from AA 2.x will have the version in the error response as 2.x
+3. AA 2.x can figure out the latest version of FIU or FIP and accordingly construct the request body upto 2.x to ensure backward compatibility. It will also mention the appropriate version in the request body of the API ",,,,,,,
