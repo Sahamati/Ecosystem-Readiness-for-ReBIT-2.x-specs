@@ -49,7 +49,7 @@ A7: Details of certifiers for certification of 2.x implementation can be found [
 **A10:**
 - Create a new entity in the UAT CR to indicate the base URL of version 2.x implementation.
 - Make changes directly using the AA Commons portal in the format: `baseurl:"v1:<url for v1>, v2:<url for v2>"`.
-- Request an update to the status on [this link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs/blob/main/Readiness_of_AAs.md) by writing to [kunal@sahamati.org.in](mailto:kunal@sahamati.org.in).
+- Request an update to the status on [this link](https://github.com/Sahamati/Ecosystem-Readiness-for-ReBIT-2.x-specs/blob/main/Readiness_of_AAs.md) by writing to [services@sahamati.org.in](mailto:services@sahamati.org.in).
 
 ### Q11: What is the process for moving to production after UAT testing?
 
